@@ -47,3 +47,18 @@ Notes
 Troubleshooting
 - Permission Errors: Ensure you have read/write permissions for both the initial and network folders.
 - Outlook Connection Issues: Ensure Outlook is running and you are logged in with the correct profile.
+
+<h2>📬 Contact</h2>
+
+
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fhulufhelo-shaun-bulasigobo-0a7340149/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+You can also visit my personal portfolio below to view other projects and more.
+
+<a href="https://fhulufhelobulasigobo.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+
+© 2024 Fhulufhelo Shaun Bulasigobo
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
